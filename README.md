@@ -23,4 +23,4 @@ Users can search for movies by entering keywords in the search bar. The app will
 
 ## Video Tutorial
 
-For a step-by-step video tutorial on how to set up and use the Movie Directory App, check out our YouTube video [here](https://www.youtube.com/watch?v=aNdwG9BEmOk).
+For a step-by-step video tutorial on how to set up, build and use the Movie Directory App, check out our YouTube video [here](https://www.youtube.com/watch?v=aNdwG9BEmOk).
